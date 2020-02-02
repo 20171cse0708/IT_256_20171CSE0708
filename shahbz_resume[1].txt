@@ -1,0 +1,36 @@
+<html>
+<head>
+<h1 align="center"><b><big>S</big>YED <big>S</big>HAHBAZ</b></h1>
+<hr>
+<hr size="4" color="black">
+</head>
+<body>
+<p align="center">Bangalore,Karnataka &#8226; 87722728260 &#8226; peterparker@gmail.com<p>
+<h3>Professional Summary</h3>
+<p>Skillful Software Engineer accomplished in university project-1,material handling and  design. Created mini cnc drwaing machine ,Works well independently and as part of dynamic teams. Skilled at collaborating with other engineers of collectibles and memorabilia on project assemble,model display.</p>
+<h3>Work History</h3>
+
+<p><b>Software Engineer</b>,8/2017 to current</p>
+<p><b>Presidency University project</b>-Bangalore</p>
+<ul>
+<li>Monitored and analyzed materials, records and assembling.</li>
+<li>Coordinated communication with other engineers  and vendors for mini cnc drawing machine and maintenance.</li>
+<li>Ran markdown reports,managed  project documentation and analysed reports.</li>
+<li>colleted all the materials and assembled along with design and handling team.</li>
+</ul>
+
+
+<h3>Skills</h3>
+<ul>
+<li>Excellent Communication Skills</li>
+<li>Active Listening</li>
+<li>Time Management</li>
+<li>Problem Solving</li>
+<li>Computer Skills</li>
+<li>Team Work</li>
+</ul>
+<h3>Education</h3>
+<p><b>High School in Presidency College</b>:2017</p>
+<p><b>B.tech(CSE) in Presidency University</b>-Bangalore</p>
+</body>
+</html>
